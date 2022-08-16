@@ -1,2 +1,2 @@
 # HTML And CSS Template 1
-html and css template for elzero web schoo 
+html and css template 1 for elzero web schoo 
